@@ -1,5 +1,6 @@
 {
-	"products": [{
+	"products": [
+		{
 		"id": 1,
 		"title": "بلوز زنانه السانا مدل آنیش",
 		"description": "جنس کتان است. طرح ساده و قد تا روی کمراست. یقه ایستاده و آستین کوتاه می باشد",
@@ -14,7 +15,25 @@
 			"title": "زنانه",
 			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
 		}
-	}],
+	},
+		{
+		"id": 2,
+		"title": "بلوز زنانه کیکی رایکی",
+		"description": "جنس پلی استر است. طرح ساده و قد روی باسن است. یقه گرد و مناسب روزمره و مهمانی می باشد",
+		"images": ["https://i.postimg.cc/hjJFrjmj/4.jpg","https://i.postimg.cc/bJ47Fh0R/5.jpg","https://i.postimg.cc/XqFTRzQ6/6.jpg"],
+		"rating": {
+			"rate": 3,
+			"count": 13
+		},
+		"price": 86000,
+		"category": {
+			"id": 1,
+			"title": "زنانه",
+			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
+		}
+	}
+	
+	],
 	"categories": [{
 			"id": 1,
 			"title": "زنانه",
