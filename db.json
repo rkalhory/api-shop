@@ -1,38 +1,42 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "title": "بلوز زنانه السانا مدل آنیش",
-      "description": "123",
-      "images":["https://i.postimg.cc/x8hNKTXv/1.jpg","https://i.postimg.cc/Hs8yT5NB/2.jpg","https://i.postimg.cc/PJP8p85f/3.jpg"],
-      "rating":{"rate":3.9,"count":11},
-      "price":145000,
-      "category":{"id":1,"title":"زنانه","image":"https://i.postimg.cc/XvRc9bP6/woman.png"}
-    }
-  ],
-  "categories": [
-    {
-      "id":1,
-      "title":"زنانه",
-      "image":"https://i.postimg.cc/XvRc9bP6/woman.png"
-    },
-    {
-      "id":2,
-      "title":"مردانه",
-      "image":"https://i.postimg.cc/Gt44KM5w/men.png"
-    },
-    {
-      "id":3,
-      "title":"جواهرات",
-      "image":"https://i.postimg.cc/zBXbbDwf/je.png"
-    },
-    {
-      "id":3,
-      "title":"الکترونیکی",
-      "image":"https://i.postimg.cc/3wZ0x0v6/el.png"
-    },
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+	"products": [{
+		"id": 1,
+		"title": "بلوز زنانه السانا مدل آنیش",
+		"description": "جنس کتان است. طرح ساده و قد تا روی کمراست. یقه ایستاده و آستین کوتاه می باشد",
+		"images": ["https://i.postimg.cc/x8hNKTXv/1.jpg", "https://i.postimg.cc/Hs8yT5NB/2.jpg", "https://i.postimg.cc/PJP8p85f/3.jpg"],
+		"rating": {
+			"rate": 3.9,
+			"count": 11
+		},
+		"price": 145000,
+		"category": {
+			"id": 1,
+			"title": "زنانه",
+			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
+		}
+	}],
+	"categories": [{
+			"id": 1,
+			"title": "زنانه",
+			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
+		},
+		{
+			"id": 2,
+			"title": "مردانه",
+			"image": "https://i.postimg.cc/Gt44KM5w/men.png"
+		},
+		{
+			"id": 3,
+			"title": "جواهرات",
+			"image": "https://i.postimg.cc/zBXbbDwf/je.png"
+		},
+		{
+			"id": 3,
+			"title": "الکترونیکی",
+			"image": "https://i.postimg.cc/3wZ0x0v6/el.png"
+		}
+	],
+	"profile": {
+		"name": "Profile 1"
+	}
 }
