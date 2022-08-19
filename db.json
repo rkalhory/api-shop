@@ -1,1 +1,34 @@
-[{"id":4,"title":"Handmade Soft Hat","price":417,"description":"New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart","category":{"id":3,"name":"Furniture","image":"https://api.lorem.space/image/furniture?w=640&h=480&r=8612"},"images":["https://api.lorem.space/image/furniture?w=640&h=480&r=3362","https://api.lorem.space/image/furniture?w=640&h=480&r=2647","https://api.lorem.space/image/furniture?w=640&h=480&r=6451"]},{"id":5,"title":"Handcrafted Plastic Hat","price":748,"description":"The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive","category":{"id":3,"name":"Furniture","image":"https://api.lorem.space/image/furniture?w=640&h=480&r=8612"},"images":["https://api.lorem.space/image/furniture?w=640&h=480&r=8049","https://api.lorem.space/image/furniture?w=640&h=480&r=834","https://api.lorem.space/image/furniture?w=640&h=480&r=2557"]},{"id":6,"title":"Incredible Metal Keyboard","price":678,"description":"Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support","category":{"id":2,"name":"Electronics","image":"https://api.lorem.space/image/watch?w=640&h=480&r=3791"},"images":["https://api.lorem.space/image/watch?w=640&h=480&r=4231","https://api.lorem.space/image/watch?w=640&h=480&r=5717","https://api.lorem.space/image/watch?w=640&h=480&r=4432"]}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
