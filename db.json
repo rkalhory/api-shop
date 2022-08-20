@@ -18,18 +18,18 @@
 	},
 		{
 		"id": 2,
-		"title": "بلوز زنانه کیکی رایکی",
-		"description": "جنس پلی استر است. طرح ساده و قد روی باسن است. یقه گرد و مناسب روزمره و مهمانی می باشد",
+		"title": "نیم ست طلا 18 عیار زنانه جواهری سون",
+		"description": "اقلام ست شامل زنجیر، گوشواره، پلاک قابل استفاده برای بانوان می باشد. نحوه بسته شدن گوشواره  میخی و نوع بسته‌بندی لولایی است.",
 		"images": ["https://i.postimg.cc/hjJFrjmj/4.jpg","https://i.postimg.cc/bJ47Fh0R/5.jpg","https://i.postimg.cc/XqFTRzQ6/6.jpg"],
 		"rating": {
-			"rate": 3,
-			"count": 13
+			"rate": 1.2,
+			"count": 3
 		},
-		"price": 86000,
+		"price": 6321000,
 		"category": {
-			"id": 1,
-			"title": "زنانه",
-			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
+			"id": 3,
+			"title": "جواهرات",
+			"image": "https://i.postimg.cc/zBXbbDwf/je.png"
 		}
 	},
 		{
@@ -142,6 +142,22 @@
 			"id": 2,
 			"title": "مردانه",
 			"image": "https://i.postimg.cc/Gt44KM5w/men.png"
+		}
+	},
+		{
+		"id": 10,
+		"title": "بلوز زنانه کیکی رایکی",
+		"description": "جنس پلی استر است. طرح ساده و قد روی باسن است. یقه گرد و مناسب روزمره و مهمانی می باشد",
+		"images": ["https://i.postimg.cc/hjJFrjmj/4.jpg","https://i.postimg.cc/bJ47Fh0R/5.jpg","https://i.postimg.cc/XqFTRzQ6/6.jpg"],
+		"rating": {
+			"rate": 3,
+			"count": 13
+		},
+		"price": 86000,
+		"category": {
+			"id": 1,
+			"title": "زنانه",
+			"image": "https://i.postimg.cc/XvRc9bP6/woman.png"
 		}
 	}
 	
