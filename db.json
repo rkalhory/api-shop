@@ -45,21 +45,6 @@
 			}
 		},
 		{
-			"id": 5,
-			"title": "تیشرت آستین کوتاه مردانه",
-			"description": "طرح ساده و  یقه گرد و آستین کوتاه می باشد",
-			"images": ["https://i.postimg.cc/YC08VjGF/13.jpg", "https://i.postimg.cc/YCP8wkYs/14.jpg", "https://i.postimg.cc/fb0CzFvT/15.jpg"],
-			"rating": {
-				"rate": 3.4,
-				"count": 456
-			},
-			"price": 44000,
-			"category": {
-				"id": 2,
-				"title": "مردانه"
-			}
-		},
-		{
 			"id": 6,
 			"title": "تیشرت آستین کوتاه مردانه اس دبلیو",
 			"description": "طرح ساده و قد روی باسن است.  یقه گرد و آستین کوتاه و مناسب استفاده روزمره می باشد",
@@ -117,21 +102,6 @@
 			"category": {
 				"id": 2,
 				"title": "مردانه"
-			}
-		},
-		{
-			"id": 10,
-			"title": "بلوز زنانه کیکی رایکی",
-			"description": "جنس پلی استر است. طرح ساده و قد روی باسن است. یقه گرد و مناسب روزمره و مهمانی می باشد",
-			"images": ["https://i.postimg.cc/hjJFrjmj/4.jpg", "https://i.postimg.cc/bJ47Fh0R/5.jpg", "https://i.postimg.cc/XqFTRzQ6/6.jpg"],
-			"rating": {
-				"rate": 3,
-				"count": 13
-			},
-			"price": 86000,
-			"category": {
-				"id": 1,
-				"title": "زنانه"
 			}
 		},
 		{
