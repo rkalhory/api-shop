@@ -86,10 +86,58 @@
 		"description": "طرح ساده و قد روی باسن است.  یقه گرد و آستین کوتاه و مناسب استفاده روزمره می باشد",
 		"images": ["https://i.postimg.cc/yYpQP0Q9/16.jpg","https://i.postimg.cc/SxXZtj3P/17.jpg","https://i.postimg.cc/htHCFcqt/18.jpg"],
 		"rating": {
-			"rate": 401,
+			"rate": 4.1,
 			"count": 603
 		},
 		"price": 198000,
+		"category": {
+			"id": 2,
+			"title": "مردانه",
+			"image": "https://i.postimg.cc/Gt44KM5w/men.png"
+		}
+	},
+		{
+		"id": 7,
+		"title": "شلوار جین مردانه هالیدی",
+		"description": "استایل لباس راسته است. نوع فاق متوسط و نحوه بسته شدن دکمه و زیپ است. مورد استفاده روزمره می باشد.",
+		"images": ["https://i.postimg.cc/c19S29X5/19.jpg","https://i.postimg.cc/HLpvpHL0/20.jpg","https://i.postimg.cc/fbB2yF3G/21.jpg"],
+		"rating": {
+			"rate": 4,
+			"count": 5
+		},
+		"price": 398000,
+		"category": {
+			"id": 2,
+			"title": "مردانه",
+			"image": "https://i.postimg.cc/Gt44KM5w/men.png"
+		}
+	},
+		{
+		"id": 8,
+		"title": "هودی مردانه طرح چنگ",
+		"description": "نحوه بسته شدن جلو بسته است. مورد استفاده روزمره می باشد.",
+		"images": ["https://i.postimg.cc/xCx63Tmf/22.jpg","https://i.postimg.cc/bN2m1PwP/23.jpg"],
+		"rating": {
+			"rate": 3.8,
+			"count": 1652
+		},
+		"price": 78500,
+		"category": {
+			"id": 2,
+			"title": "مردانه",
+			"image": "https://i.postimg.cc/Gt44KM5w/men.png"
+		}
+	},
+		{
+		"id": 9,
+		"title": "تی شرت مردانه طرح الفبا",
+		"description": "قد لباس تا روی باسن و یقه گرد است. آستین کوتاه و مورد استفاده روزمره و طرح ساده است.",
+		"images": ["https://i.postimg.cc/nckxmNV3/24.jpg","https://i.postimg.cc/Fsmm7hvf/25.jpg","https://i.postimg.cc/0yXqWmwm/26.jpg"],
+		"rating": {
+			"rate": 3,
+			"count": 895
+		},
+		"price": 33000,
 		"category": {
 			"id": 2,
 			"title": "مردانه",
