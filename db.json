@@ -150,21 +150,6 @@
 			}
 		},
 		{
-			"id": 12,
-			"title": "شلوار جین مردانه هالیدی",
-			"description": "استایل لباس راسته است. نوع فاق متوسط و نحوه بسته شدن دکمه و زیپ است. مورد استفاده روزمره می باشد.",
-			"images": ["https://i.postimg.cc/c19S29X5/19.jpg", "https://i.postimg.cc/HLpvpHL0/20.jpg", "https://i.postimg.cc/fbB2yF3G/21.jpg"],
-			"rating": {
-				"rate": 4,
-				"count": 5
-			},
-			"price": 398000,
-			"category": {
-				"id": 2,
-				"title": "مردانه"
-			}
-		},
-		{
 			"id": 13,
 			"title": "انگشتر طلا اونیکست",
 			"description": "زمرد برلیان اشک مارکی عیار ۱۸ و قطر کالا ۱۸ میلی متر میلی متر است.",
@@ -269,22 +254,6 @@
 				"title": "الکترونیکی"
 			}
 		},
-		{
-			"id": 20,
-			"title": "مچ بند هوشمند شیائومی مدل Mi Band 7 Global Version",
-			"description": "امکانات اثر انگشت (Fingerprint Sensor)، ژیروسکوپ، سنجش اکسیژن خون، تاب‌سنج، شمارشگر ضربان قلب، قطب‌نما (Compass)",
-			"images": ["https://i.postimg.cc/Fz1Xhy3S/59.jpg", "https://i.postimg.cc/MKMJ4YW2/60.jpg", "https://i.postimg.cc/PfFk27nQ/61.jpg"],
-			"rating": {
-				"rate": 4.3,
-				"count": 198
-			},
-			"price": 1291000,
-			"category": {
-				"id": 3,
-				"title": "الکترونیکی"
-			}
-		}
-
 	],
 	"categories": [{
 			"id": 1,
