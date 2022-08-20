@@ -31,22 +31,7 @@
 				"image": "https://i.postimg.cc/zBXbbDwf/je.png"
 			}
 		},
-		{
-			"id": 3,
-			"title": "نیم ست طلا 18 عیار زنانه گالری یارطلا مدل تراش",
-			"description": "اقلام ست شامل دستبند، زنجیر، گردنبند، گوشواره قابل استفاده برای بانوان می باشد. نحوه بسته شدن مکانیکی است.",
-			"images": ["https://i.postimg.cc/zBQ4hd7v/31.jpg", "https://i.postimg.cc/FRz27tjw/32.jpg", "https://i.postimg.cc/Rq58sNjz/33.jpg"],
-			"rating": {
-				"rate": 0,
-				"count": 0
-			},
-			"price": 25263000,
-			"category": {
-				"id": 3,
-				"title": "جواهرات",
-				"image": "https://i.postimg.cc/zBXbbDwf/je.png"
-			}
-		},
+	
 		{
 			"id": 4,
 			"title": "دوربین عکاسی چاپ سریع فوجی فیلم مدل Instax Mini 9 Clear",
