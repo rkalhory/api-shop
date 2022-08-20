@@ -136,7 +136,7 @@
 		},
 		{
 			"id": 14,
-			"title": "گوشی موبایل شیائومی مدل Redmi Note 11 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+			"title": "گوشی موبایل شیائومی مدل Redmi Note 11",
 			"description": "شیائومی Redmi Note 11 به عنوان یکی از گوشی‌های هوشمند میان‌رده بسیار با‌کیفیت این شرکت شناخته می‌شود که به لطف بهره بردن از مشخصات فنی مناسب، توانایی ارائه عملکرد بسیار خوب و قابل قبولی را دارد.",
 			"images": ["https://i.postimg.cc/3RPzCgWB/41.jpg", "https://i.postimg.cc/XJZTC2Nq/42.jpg", "https://i.postimg.cc/PqVgNGj0/43.jpg"],
 			"rating": {
@@ -209,21 +209,7 @@
 				"title": "الکترونیکی"
 			}
 		},
-		{
-			"id": 19,
-			"title": "دوربین عکاسی چاپ سریع فوجی فیلم مدل Instax mini 90 Neo Classic",
-			"description": "دوربین «Instax Mini 90 Neo Classic» ساخت شرکت ژاپنی «Fujifilm» شاید به عبارتی بهترین دوربین فوری برای میهمانی‌ها و مجالس شما باشد. البته این موضوع بی‌هزینه نیست",
-			"images": ["https://i.postimg.cc/QNRsb5h4/56.jpg", "https://i.postimg.cc/Hn8ZnVNj/57.jpg", "https://i.postimg.cc/z3mdgqm7/58.jpg"],
-			"rating": {
-				"rate": 4.3,
-				"count": 44
-			},
-			"price": 4999000,
-			"category": {
-				"id": 3,
-				"title": "الکترونیکی"
-			}
-		},
+
 	],
 	"categories": [{
 			"id": 1,
