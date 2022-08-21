@@ -40,7 +40,7 @@
 			},
 			"price": 1950000,
 			"category": {
-				"id": 3,
+				"id": 4,
 				"title": "الکترونیکی"
 			}
 		},
@@ -145,7 +145,7 @@
 			},
 			"price": 5719000,
 			"category": {
-				"id": 3,
+				"id": 4,
 				"title": "الکترونیکی"
 			}
 		},
@@ -160,7 +160,7 @@
 			},
 			"price": 1140000,
 			"category": {
-				"id": 3,
+				"id": 4,
 				"title": "الکترونیکی"
 			}
 		}
@@ -181,7 +181,7 @@
 			"image": "https://i.postimg.cc/zBXbbDwf/je.png"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"title": "الکترونیکی",
 			"image": "https://i.postimg.cc/3wZ0x0v6/el.png"
 		}
