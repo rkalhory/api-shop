@@ -149,7 +149,21 @@
 				"title": "الکترونیکی"
 			}
 		},
-
+		     {
+			"id": 18,
+			"title": "ساعت هوشمند شیائومی مدل Maimo-WT2105 بند سلیکونی",
+			"description": "ساعت هوشمند مایمو WT2105 دارای بندهای شیک و رنگارنگ می باشد تا بتوانید مد خود را ایجاد کنید و در میهمانیها یا تجمعات مختلف از دیگران متمایز شوید. ",
+			"images": ["https://i.postimg.cc/v82xH1YG/53.jpg", "https://i.postimg.cc/gJJcfD68/54.jpg", "https://i.postimg.cc/GpbmjrLM/55.jpg"],
+			"rating": {
+				"rate": 4,
+				"count": 354
+			},
+			"price": 1140000,
+			"category": {
+				"id": 3,
+				"title": "الکترونیکی"
+			}
+		}
 	],
 	"categories": [{
 			"id": 1,
